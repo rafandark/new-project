@@ -1,0 +1,421 @@
+html{
+	font-size: 10px;
+}
+
+body{
+	overflow-x: hidden;
+}
+
+/* header */
+header {
+	width: 100%;
+	height: 70rem;
+	background-color: black;
+}
+
+.navbar-brand{
+	font-size: 4.5rem!important;
+	font-family: 'Graduate', cursive;
+	padding-left: 14rem;
+}
+	
+}
+
+
+.amrnav{
+	background-color: black!important;
+	 padding-top:3rem; */
+}
+.amrn{
+  padding-left: 15rem;
+} */
+.amrnav li{
+	
+	padding-left: 2rem; 
+}
+
+.navbar-nav{
+	padding-right: 8rem;
+}
+.amrnav a{text-decoration: none;
+	color: white;
+	font-family: 'Bungee Inline', cursive;
+	font-family: 'Lato', sans-serif;
+	font-family: 'Major Mono Display', monospace;
+	font-family: 'Teko', sans-serif;
+	font-size: 2rem;
+}
+
+.amrnav a:hover{
+	color: #FF0CFF;
+}
+
+.amrbut{
+
+}
+
+/* 
+.amrbut .aicon{
+	width: 2rem;
+	height: .5rem;
+	background-color: #ff0cff!important;
+}
+.amrbut .aaicon{
+	width: 3rem;
+	height: .5rem;
+	background-color: #9e109e!important;
+} */
+
+.dropdown-menu{
+	background-color: #ff0cff;
+}
+
+.fas{
+	color:#e9d8e9;
+	padding-top: 1.5rem;
+	font-size: 2rem;
+	margin:0 4rem 0 0
+
+}
+.fa-shopping-bag{
+	color:#FF0CFF;
+}
+
+/* video */
+.banner{
+	margin-top: -2rem;
+	width: 100vw;
+	height: 60rem;
+	overflow:hidden;
+	
+	
+	
+}
+ .banner video{
+	width: 100vw;
+	height: 100%;
+	object-fit: cover;
+} 
+     /*  end */
+         
+/* hero part start */
+  
+.hero{
+	width: 100vw;
+	height: 65rem;
+	background-color: #06060D;
+	margin-top: -3rem;
+}
+.hero h2{
+	color: #D0DDE8;
+	font-size: 5rem;
+	font-family: 'Bungee Inline', cursive;
+
+font-family: 'Teko', sans-serif;
+}
+.hero h1{
+	padding-top: 8rem;
+	font-size: 9rem;
+	color: #FF01C8;
+	font-family: 'Bungee Inline', cursive;
+	font-family: 'Major Mono Display', monospace;
+}
+.herou{
+	padding-top: 5rem!important;
+}
+
+button{
+	margin-top: 3rem;
+	width: 25rem;
+	height: 4rem;
+	color:#FF01C8 ;
+	background-color: black;
+	border:2px ##FF0099 solid;
+	box-shadow: 200px;
+	border-radius: 20px ;
+	font-family: 'Bungee Inline', cursive;
+font-family: 'Lato', sans-serif;
+font-family: 'Major Mono Display', monospace;
+font-family: 'Teko', sans-serif;
+	
+}
+
+.likho{
+	width: 10rem;
+	color: white;
+	border: #FF01C8 1px solid;
+	
+}
+
+.form-inline{
+	margin-right: 10rem!important;
+	
+}
+
+.part-3{
+	width: 100vw;
+	height: 60rem;
+	clear: both;
+
+}
+
+.part-4{
+	width: 100vw;
+	height: 50rem;
+
+
+	background-color: turquoise;
+	clear: both;
+}
+
+
+.part-5{
+	width: 100vw;
+	height: 60rem;
+	color: white;
+}
+
+.part-5 h1{
+	font-size: 9rem;
+	color: #FF01C8;
+	padding-top: 20rem;
+    
+	text-transform: uppercase;
+    font-weight: 900;
+    color: #FF0CFF;
+    background: -webkit-linear-gradient(left,#ff005e,#ff01c9,#a700ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 0!important;
+    line-height: initial;
+}
+
+.part-5 h2{
+	text-align: center;
+    color:#29323c;
+    font-size: 3.5rem;
+    margin-top: -6rem;
+    font-family: 'Rubik',sans-serif;
+	border-bottom:1px solid #FF01C8;
+	border-width: 1rem;
+	width: 90rem;
+	box-shadow: black 20px ;
+	
+}
+
+.part-5 h3{
+	text-align: center;
+    color: #29323c;
+    font-size: 2.5rem;
+	margin-top: -10rem;
+   
+    font-family: 'Rubik',sans-serif;
+}
+
+.part-6{
+	width: 100vw;
+	height: 55rem;
+	background: #485563;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #29323c, #485563);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #29323c, #485563); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.part-6 h1,h4{
+	color: #FF0CFF;
+    background: -webkit-linear-gradient(left,#ff005e,#ff01c9,#a700ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.part-6 h3{
+	font-size: 3rem;
+	margin-top: 20rem;
+	
+	text-align: center;
+    color: #a9b6c0;
+    font-size: 2.5rem;
+
+    font-family: 'Rubik',sans-serif;
+}
+
+.part-6 h1{
+	font-size: 10rem;
+	font-family: 'Raleway',sans-serif;
+    text-align: center;
+    
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #FF0CFF;
+    background: -webkit-linear-gradient(left,#ff005e,#ff01c9,#a700ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 0!important;
+    line-height: initial;
+}
+
+.part-7{
+	padding-top: 30rem;
+	
+}
+
+.fa-arrow-right{
+	color: #29323c;
+}
+
+.part-8 H3{ 
+
+    font-family: 'Rubik',sans-serif;
+
+
+}
+
+.part-8 ul{
+	font-family: 'Bungee Inline', cursive;
+	font-family: 'Lato', sans-serif;
+}
+
+
+
+.part-8 i{
+	padding: 2rem 0.5rem 1rem 1rem;
+}
+
+.icon-1{
+	margin-top: 5rem;
+}
+
+.part-9 h4{ color:#FF0CFF ;
+	font-weight: 900;
+	padding-top: 3rem;
+	
+
+}
+.part-9{
+	background-color:#263036 ;
+}
+
+.part-9 h5{
+	color: white;
+	font-weight: 700;
+	padding-bottom: 3rem;
+}
+
+.part-9 h4,h5{
+	
+	border-right: 1px solid white;
+	border-right-height: 90% ;
+}
+
+.part-10{
+	background-color:#000011;
+}
+
+.part-10 p{
+	color: #5A5A5A;
+}
+.part-10 .ses{
+	margin-left: 2rem;
+}
+	/* media part */
+
+@media (max-width: 575.98px) {
+	
+html{
+	font-size: 45%;
+	
+
+}
+body{
+	overflow-x:hidden ;
+}
+
+
+	 .banner{
+		 width: 100vw;
+		 height: 40rem;
+		 overflow: hidden;
+	 } 
+
+	 .banner video{
+		width: 100vw;
+		height: 100%;
+		object-fit: cover;
+	}
+	.amrn{
+		padding-left: 0rem;
+	  }
+
+	.hero{
+		margin-top: -5rem;
+	} 
+
+	.navbar-toggler{
+		margin-bottom: 2rem;
+		padding-left: 30rem;
+	}
+	.part-3{
+		clear: both;
+		height: 100%;
+
+	} 
+	 .part-4{
+		 height: 100%;
+		clear: both;
+
+	} 
+	.furt{
+		width: 100%;
+		padding-top: 20rem;
+		
+	}
+
+
+	.part-6 img{
+		margin-left: 5rem;
+	
+
+	}
+
+	.part-6 {
+		background: #485563;  /* fallback for old browsers */
+		background: -webkit-linear-gradient(to right, #29323c, #485563);  /* Chrome 10-25, Safari 5.1-6 */
+		background: linear-gradient(to right, #29323c, #485563); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	}
+
+
+	.part-7{
+		padding-top: 70rem;
+	}
+
+	.part-8 .news{
+		margin-left: 2rem;
+	}
+    
+	.icon-1{
+		margin-top: 1rem;
+	}
+	
+	/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+	html{
+		font-size: 45%;
+	}
+	
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {...}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {...}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {...}
+	
